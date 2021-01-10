@@ -5,9 +5,9 @@
 ## 나의 실력 수준
 * 현재 **44문제** 완료 (21.01.10)
 ---
-* 2020. 09월 [Bronze 1~3] #첫시작
-* 2020. 12월 [Silver 3~5]
-* 2021. 1월 [Silver 1~2 수준]
+* 20년 09월 [Bronze 1~3] #첫시작
+* 20년. 12월 [Silver 3~5]
+* 21년. 1월 [Silver 1~2 수준]
 ---
 ## 풀어본 알고리즘
 * DP ([B1][타일 장식물](https://www.acmicpc.net/problem/13301), [S5][피보나치수 2](https://www.acmicpc.net/problem/2748), [S3][1,2,3더하기](https://www.acmicpc.net/problem/9095), [S3][계단오르기](https://www.acmicpc.net/problem/2579), [S2][스티커](https://www.acmicpc.net/problem/9465), [S1][오르막 수](https://www.acmicpc.net/problem/11057), [S1][포도주시식](https://www.acmicpc.net/problem/2156))
